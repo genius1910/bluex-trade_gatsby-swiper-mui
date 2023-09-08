@@ -1,0 +1,11 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M24 12v2H4a2 2 0 0 0-1.995 1.85L2 16v11.999h96V16a2 2 0 0 0-1.85-1.995L96 14H76v-2h20a4 4 0 0 1 4 4v14H0V16a4 4 0 0 1 4-4h20zm48 2H28v-2h44v2z" fill="#23A376" fill-rule="nonzero"/>
+        <path d="M99 29v57a2.99 2.99 0 0 1-.879 2.121A2.99 2.99 0 0 1 96 89H4a2.99 2.99 0 0 1-2.121-.879A2.99 2.99 0 0 1 1 86V29h98z" stroke="#23A376" stroke-width="2"/>
+        <rect stroke="#23A376" stroke-width="2" x="23" y="9" width="6" height="14" rx="2"/>
+        <rect stroke="#23A376" stroke-width="2" x="71" y="9" width="6" height="14" rx="2"/>
+        <text font-family="Lato-Light, Lato" font-size="49" font-weight="300" fill="#23A376">
+                <tspan x="22" y="77">60</tspan>
+            </text>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="pnqhlvs0jc" x1="0%" x2="100%" y1="50.735%" y2="50.735%">
+            <stop offset="0%" stop-color="#0E3B88"/>
+            <stop offset="100%" stop-color="#38A2D0"/>
+        </linearGradient>
+        <linearGradient id="wef6ozlste" x1="13.836%" x2="94.375%" y1="37.159%" y2="65.002%">
+            <stop offset="0%" stop-color="#4A9DFB"/>
+            <stop offset="58.105%" stop-color="#5DD3FF"/>
+            <stop offset="100%" stop-color="#5FF2BB"/>
+        </linearGradient>
+        <linearGradient id="tn4w44i0ed" x1="0%" x2="100%" y1="31.709%" y2="65.261%">
+            <stop offset="0%" stop-color="#0D3A87"/>
+            <stop offset="100%" stop-color="#45C2E7"/>
+        </linearGradient>
+        <filter id="cdl45kscta" width="125.8%" height="132%" x="-12.9%" y="-14%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+        </filter>
+        <rect id="5ewwhhyywb" width="124" height="100" x="0" y="0" rx="8"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-925.000000, -3371.000000) translate(925.000000, 3371.000000) translate(13.000000, 25.000000)">
+                    <g>
+                        <use fill="#000" filter="url(#cdl45kscta)" xlink:href="#5ewwhhyywb"/>
+                        <use fill="#FFF" xlink:href="#5ewwhhyywb"/>
+                    </g>
+                    <path fill="#0E174C" stroke="url(#pnqhlvs0jc)" stroke-width="8" d="M116 4c1.105 0 2.105.448 2.828 1.172C119.552 5.895 120 6.895 120 8h0v21H4V8c0-1.105.448-2.105 1.172-2.828C5.895 4.448 6.895 4 8 4h0z"/>
+                    <path fill="url(#wef6ozlste)" stroke="url(#tn4w44i0ed)" stroke-width="8" d="M120 29v63c0 1.105-.448 2.105-1.172 2.828-.723.724-1.723 1.172-2.828 1.172h0H8c-1.105 0-2.105-.448-2.828-1.172C4.448 94.105 4 93.105 4 92h0V29h116z"/>
+                    <path fill="#262626" fill-rule="nonzero" d="M61.086 60.104c1.958 0 3.525-1.555 3.525-3.498 0-1.943-1.567-3.497-3.525-3.497h-7.31v-5.182c0-1.943-1.565-3.367-3.393-3.367H46.99c-9.136 0-16.707 6.476-18.273 15.155h-8.093c-1.958 0-3.524 1.554-3.524 3.497 0 1.943 1.566 3.498 3.524 3.498h8.093c1.697 8.55 9.267 15.026 18.273 15.026h3.264c1.958 0 3.393-1.555 3.393-3.368v-5.181h7.31c1.958 0 3.524-1.555 3.524-3.498 0-1.943-1.566-3.497-3.524-3.497h-7.31v-6.088h7.44zM46.86 74.87c-6.396 0-11.747-5.31-11.747-11.658 0-6.347 5.22-11.658 11.747-11.658V74.87zM103.638 59.715h-8.223c-1.567-8.55-9.268-15.155-18.274-15.155h-3.394c-1.958 0-3.393 1.554-3.393 3.367V78.11c0 1.943 1.566 3.368 3.393 3.368h3.394c9.137 0 16.707-6.477 18.274-15.156h8.223c1.958 0 3.394-1.554 3.394-3.368 0-1.684-1.567-3.238-3.394-3.238zM77.14 74.87V51.554c6.396 0 11.747 5.311 11.747 11.658 0 6.348-5.22 11.529-11.747 11.658z"/>
+                    <circle cx="19.5" cy="16.5" r="4.5" fill="#E93B3B"/>
+                    <circle cx="33.5" cy="16.5" r="4.5" fill="#F3B017"/>
+                    <circle cx="47.5" cy="16.5" r="4.5" fill="#4ED50F"/>
+                    <rect width="30" height="7" x="79" y="13" fill="#28458B" rx="3.5"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
