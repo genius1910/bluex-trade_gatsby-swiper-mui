@@ -17,11 +17,11 @@ import {
   setDefaultSearch,
 } from "../redux/global/global.actions";
 
-import CookieHubBanner from "@/components/cookiehub-banner";
+import CookieHubBanner from "../components/cookiehub-banner";
 import Header from "./header";
 import Footer from "./footer";
-import { LayoutType, localeList } from "@/constants/page/layout";
-import { Colors } from "@/constants/share/colors";
+import { LayoutType, localeList } from "../constants/page/layout";
+import { Colors } from "../constants/share/colors";
 
 const GlobalStyle = createGlobalStyle`
   html body {
